@@ -1,0 +1,107 @@
+.home {
+	background-attachment: fixed;
+	background-image: url(/img/fotofundo.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-color: #000;
+}
+.page{
+	background-attachment: fixed;
+	background-image: url(/img/fumaca.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-color: #000;
+}
+
+#cont {
+	margin-top: 10 px;
+}
+
+#conts{
+	margin-top: 10px;
+}
+#conte{
+	margin-bottom :10px;
+	margin-top: 10px;
+}
+
+#sk {
+	margin-top: 10px;
+}
+#pro {
+	margin-top: 10px;
+}
+
+.tamanhoLabel {
+	font-size: 24px;
+}
+
+
+.foto {
+	width :800px;
+	height: 500px;
+}
+
+h1, p {
+	text-align: center;
+}
+
+.tamanhoh1 {
+	font-size: 80px;
+	color:;
+}
+.tamanhoh0 {
+	font-size: 50px;
+	color:#F9FEFF;
+	
+}
+h2 {
+	text-align: center;
+	font-size: 30px;
+	color:#F9FEFF ;
+}
+
+h3 {
+	
+	font-size: 20px;
+	color:#F9FEFF ;
+}
+
+
+.circle {
+	background-position: center;
+	background-color: #aaa;
+	border-radius: 50%;
+	width: 250px;
+	height: 250px;
+	overflow: hidden;
+	position: relative;
+}
+
+.circle img {
+	background-position: center;
+	position: center;
+	bottom: 0;
+	width: 100%;
+}
+.img{
+	background-attachment: fixed;
+	background-image: url(/img/preto.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-color: #000;
+
+}
+#links{
+	margin-top: 50px;
+}
+#frase{
+	margin-top: 15px;
+}
+
+.tamanhoLabel3{
+	text-align: center;
+	font-size: 30px;
+	color:#F9FEFF ;
+}
+}
